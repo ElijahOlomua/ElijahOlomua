@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-I've always had a love for gaming and a curiosity for programming, so I thought, why not combine the two? I am an aspiring game developer interested in specializing in gameplay programming, although I am interested in all facets of game development.
+&nbsp;&nbsp;&nbsp;&nbsp; I've always had a love for gaming and a curiosity for programming, so I thought, why not combine the two? I am an aspiring game developer interested in specializing in gameplay programming, although I am interested in all facets of game development.
 
 * 🌍  I'm based in Oregon
 * 🖥️  See my portfolio at [elijaholomua.github.io](http://elijaholomua.github.io)
